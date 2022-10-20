@@ -1,0 +1,335 @@
+a{
+	background-color: black;
+	color: white;
+	padding: 5px;
+	text-decoration: none;
+	font-size: 20px;
+	margin: 120px;
+}
+
+a:hover{
+	background-color: gray;
+	color: black;
+
+}
+
+#nav{
+	margin-left: -8px;
+	margin-top: -8px;
+
+}
+
+table,th,td{
+	color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    border-collapse:collapse;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+p{
+	text-align: center;
+	font-size: 100px;
+	font-style: italic;
+}
+
+b{
+	font-size: 50px;
+	font-family: inherit;
+	color: orange;
+
+}
+
+c{
+	font-family: !important;
+	font-size: 25px;
+}
+
+.abcd{
+	float: right;
+	width: 800px;
+	font-size: 100px;
+	font-family: cursive;
+}
+
+.abc{
+	margin-top: 50px;
+	font-size: 50px;
+}
+
+.ab{
+	margin-top: 35px;
+	font-size: 32px;
+}
+
+#la{
+
+	margin-left: 740px;
+}
+
+#lb{
+	margin-top: -480px;
+	margin-left: 80px;
+	font-size: 40px;
+}
+
+#lc{
+	margin-top: -50px;
+	margin-left: 150px;
+
+}
+
+#ld{
+	width: 550px;
+	margin-left: 110px;
+}
+
+#le{
+	margin-left: 1100px;
+	margin-top: -300px;
+	font-size: 32px;
+}
+
+#lf{
+	margin-left: 1180px;
+	margin-top: -40px;
+}
+
+#lg{
+	width: 450px;
+	margin-left: 1110px;
+	margin-top: -10px;
+}
+
+h7{
+	font-family: cursive;
+	font-size: 20px;
+}
+
+.lh{
+	height: 625px;
+	background: linear-gradient(lightgray,black);
+}
+
+.li{
+	float: right;
+	width: 500px;
+}
+
+.lj{
+	font-size: 100px;
+	font-family: cursive;
+	color: rgb(27, 191, 168);
+}
+
+.lk{
+	font-size: 32px;
+	font-family: cursive;
+	color: darkcyan;
+}
+
+.qwer
+{
+	height: 850px;
+	background-color: black;
+}
+
+.qwe{
+	float: right;
+	width: 400px;
+	font-size: 80px;
+	font-family: cursive;
+	color: white;
+}
+
+.qw{
+	font-size: 20px;
+	font-family: cursive;
+	color: white;
+}
+
+.q{
+	font-size: 60px;
+	color: white;
+}
+
+#ll{
+	height: 1245px;
+	background: linear-gradient(black,lightgray);
+}
+
+#lm{
+	margin-top: -1000px;
+	margin-left: 800px;
+}
+
+.ln{
+	margin-top: -600px;
+	margin-left: 350px;
+	color: white;
+}
+
+.lo{
+	margin-left: 310px;
+	margin-top: -20px;
+	font-size: 80px;
+	color: white;
+}
+
+
+.lp{
+	font-size: 24px;
+	color: white;
+	width: 350px;
+	margin-left: 275px;
+}
+
+#lq{
+	margin-top: 550px;
+	margin-left: 720px;
+}
+
+#lr{
+	margin-top: -30px;
+	margin-left: 810px;
+
+}
+
+#ls{
+	font-size: 20ox;
+	margin-left: 125px;
+	margin-top: 15px;
+}
+
+#lt{
+	width: 550px;
+	margin-top: -43px;
+	margin-left: 743px;
+}
+
+#lu{
+	margin-top: -43px;
+	margin-left: 1300px;
+}
+
+#lv{
+	width: 550px;
+	margin-left: 20px;
+	margin-top: 15px;
+}
+
+#lw{
+	margin-top: -42px;
+	float: right ;
+	margin-right: 505px;
+	width: 550px;
+}
+
+#lx{
+	float: right;
+	width: 500px;
+	margin-top: -40px;
+	margin-right: -1050px;
+}
+
+.lz{
+	border: 1px solid rgb(255, 153,51);
+}
+
+.ha{
+	border: 1px solid rgb(255, 153, 51);
+	margin-top: -250px;
+}
+
+.hb{
+	float: right;
+	height: 445px;
+	margin-top: -200px;
+}
+
+.hc{
+	float: right;
+	font-size: 80px;
+	width: 500px;
+	border: 1px solid rgb(255, 153, 51);
+	margin-top: 125px;
+	color: white;
+	font-family: cursive;
+	
+}
+
+.hd{
+	float: left;
+	font-size: 25px;
+	width: 500px;
+	border: 1px solid rgb(255, 153, 51);
+	margin-top: -430px;
+	margin-left: 700px;
+	color: black;
+	font-family: cursive;
+}
+
+#he{
+	float: right;
+}
+
+#hf{
+	float: right;
+	border: 1px solid rgb(255, 153, 51);
+	font-size: 80PX;
+	width: 600px;
+	color: white;
+}
+
+.hg{
+	border: 1px solid rgb(255, 153, 51);
+	width: 400px;
+	margin-left: 450px;
+	margin-top: -340px;
+	font-size: 25px;
+	font-family: cursive;
+}
+
+#hh{
+	margin-top: 300px;
+	height: 525px;
+	background: linear-gradient(rgb(255, 153, 51),white)
+}
+
+#hi{
+	float: right;
+	margin-top: -500px;
+	margin-right: 512px;
+}
+
+#hj{
+	float: right;
+	margin-top: -490px;
+	margin-right: 260px;
+}
+
+#hk{
+	float: right;
+	width: 600px;
+	margin-top: -450px;
+	margin-right: 10px;
+	font-size: 22px;
+	font-family: cursive;
+}
+
+#hl{
+	height: 800;
+	background-color: white;
+}
+
+#hm{
+	float: right;
+	height: 800px;
+	margin-top: -800px;
+	margin-right: 200px;
+	font-size: 28px;
+	color: rgb(255, 153, 51);
+	font-family: cursive;
+}
